@@ -1,0 +1,7 @@
+C:\Users\shtuk\Desktop\Files\ESP_32_CAM\ESP_32_CAM\obj\Debug\ESP_32_CAM.csprojAssemblyReference.cache
+C:\Users\shtuk\Desktop\Files\ESP_32_CAM\ESP_32_CAM\obj\Debug\ESP_32_CAM.csproj.CoreCompileInputs.cache
+C:\Users\shtuk\Desktop\Files\ESP_32_CAM\ESP_32_CAM\bin\Debug\ESP_32_CAM.exe.config
+C:\Users\shtuk\Desktop\Files\ESP_32_CAM\ESP_32_CAM\bin\Debug\ESP_32_CAM.exe
+C:\Users\shtuk\Desktop\Files\ESP_32_CAM\ESP_32_CAM\bin\Debug\ESP_32_CAM.pdb
+C:\Users\shtuk\Desktop\Files\ESP_32_CAM\ESP_32_CAM\obj\Debug\ESP_32_CAM.exe
+C:\Users\shtuk\Desktop\Files\ESP_32_CAM\ESP_32_CAM\obj\Debug\ESP_32_CAM.pdb
